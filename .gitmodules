@@ -1,0 +1,3 @@
+[submodule "module-05/homework/rag-project"]
+	path = module-05/homework/rag-project
+	url = https://github.com/mage-ai/rag-project
